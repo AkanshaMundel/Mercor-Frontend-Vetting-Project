@@ -29,3 +29,9 @@ Grading:
 
 
 SOLUTION :
+
+![image](https://github.com/AkanshaMundel/Mercor-Frontend-Vetting-Project/assets/78690652/002065d5-b2bb-4038-8b1a-422966b3e565)
+
+and in moblie , it responsive 
+<img width="374" alt="image" src="https://github.com/AkanshaMundel/Mercor-Frontend-Vetting-Project/assets/78690652/cc149b31-a0dc-4ac3-83da-a796e6df8563">
+
